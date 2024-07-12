@@ -1,0 +1,3 @@
+Obs: Barriga teste estas todos os cénarios juntos
+sem ordem de execuções com umas refatoração como não deve ser feita com o JUnit.
+Obs: funciona se executar mais não e o padrão.
